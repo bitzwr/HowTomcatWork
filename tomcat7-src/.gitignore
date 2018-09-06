@@ -1,0 +1,15 @@
+logs
+output
+target
+work
+mvn.properties
+.checkstyle
+.classpath
+.fbprefs
+.project
+.settings
+*.iml
+*.asc
+*.jj
+*.tmp
+
